@@ -1,0 +1,14 @@
+com\shopping\westministershoppingsystem\MainConsole$ActionStrategy.class
+com\shopping\westministershoppingsystem\MainConsole$AddProductAction.class
+com\shopping\westministershoppingsystem\MainConsole$ExitAction.class
+com\shopping\westministershoppingsystem\ProductDetailsGUI.class
+com\shopping\westministershoppingsystem\Product.class
+com\shopping\westministershoppingsystem\WestministerShoppingManager.class
+com\shopping\westministershoppingsystem\MainConsole$PrintProductsAction.class
+com\shopping\westministershoppingsystem\ShoppingManager.class
+com\shopping\westministershoppingsystem\MainConsole$DeleteProductAction.class
+com\shopping\westministershoppingsystem\Electronics.class
+com\shopping\westministershoppingsystem\User.class
+com\shopping\westministershoppingsystem\MainConsole$SaveToFileAction.class
+com\shopping\westministershoppingsystem\MainConsole.class
+com\shopping\westministershoppingsystem\Clothing.class

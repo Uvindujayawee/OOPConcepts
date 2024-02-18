@@ -1,0 +1,7 @@
+Product ID: 1
+Product Name: Shirt
+Product Category: Clothing
+Price: $1500.0
+Quantity Available: 6
+Size: M
+Color: Whiye

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-12T09:35:18 IST" name="Surefire suite" finished-at="2024-01-12T09:35:18 IST" duration-ms="94">
+    <groups>
+    </groups>
+    <test started-at="2024-01-12T09:35:18 IST" name="Surefire test" finished-at="2024-01-12T09:35:18 IST" duration-ms="94">
+      <class name="Test.WestminsterShoppingManagerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.WestminsterShoppingManagerTest@2b71e916]" started-at="2024-01-12T09:35:18 IST" name="setUp" finished-at="2024-01-12T09:35:18 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddProduct()[pri:0, instance:Test.WestminsterShoppingManagerTest@2b71e916]" started-at="2024-01-12T09:35:18 IST" name="testAddProduct" finished-at="2024-01-12T09:35:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddProduct -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.WestminsterShoppingManagerTest@2b71e916]" started-at="2024-01-12T09:35:18 IST" name="setUp" finished-at="2024-01-12T09:35:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPrintProductList()[pri:0, instance:Test.WestminsterShoppingManagerTest@2b71e916]" started-at="2024-01-12T09:35:18 IST" name="testPrintProductList" finished-at="2024-01-12T09:35:18 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrintProductList -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.WestminsterShoppingManagerTest@2b71e916]" started-at="2024-01-12T09:35:18 IST" name="setUp" finished-at="2024-01-12T09:35:18 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSaveToFileAndLoadFromFile()[pri:0, instance:Test.WestminsterShoppingManagerTest@2b71e916]" started-at="2024-01-12T09:35:18 IST" name="testSaveToFileAndLoadFromFile" finished-at="2024-01-12T09:35:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSaveToFileAndLoadFromFile -->
+      </class> <!-- Test.WestminsterShoppingManagerTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
